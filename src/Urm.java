@@ -66,9 +66,12 @@ public class Urm{
 
 		JLabel text4 = new JLabel("-J(m,n,i)");
 		panel_info.add(text4);
-
-		JLabel text5 = new JLabel("Mas informacion en help.");
+		
+		JLabel text5 = new JLabel("Los input se separaran por ','");
 		panel_info.add(text5);
+
+		JLabel text6 = new JLabel("Mas informacion en help.");
+		panel_info.add(text6);
 
 		SpringLayout layout_inputs = new SpringLayout();
 		panel_info.setLayout(layout_inputs);
@@ -90,6 +93,9 @@ public class Urm{
 
 		layout_inputs.putConstraint(SpringLayout.NORTH, text5, 5, SpringLayout.SOUTH, text4);
 		layout_inputs.putConstraint(SpringLayout.WEST, text5, 5, SpringLayout.WEST, panel_info);
+		
+		layout_inputs.putConstraint(SpringLayout.NORTH, text6, 5, SpringLayout.SOUTH, text5);
+		layout_inputs.putConstraint(SpringLayout.WEST, text6, 5, SpringLayout.WEST, panel_info);
 
 		panel_info.revalidate();
 	}
