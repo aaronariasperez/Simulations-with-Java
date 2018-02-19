@@ -20,13 +20,21 @@ el archivo 'Orden_compilacion'.
 **Características:**
 
 El software se compone de:
+
 -Generador de números aleatorios.
+
 -Simulación de autómatas.
+
 -Cifrado de texto mediante autómatas.
+
 -Conway's Game of Life.
+
 -Simulador de reacción química de Belousov-Zhabotinsky.
+
 -Simulador de tumor cerebral.
+
 -Simulación de Mandelbrot.
+
 -Intérprete de URM. (se adjuntan programas de ejemplo en 'Programas URM')
 
 Las simulaciones se ejecutan bajo paralelismo en cpu para mas eficiencia.
