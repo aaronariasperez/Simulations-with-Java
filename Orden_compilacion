@@ -1,4 +1,4 @@
-#script for compile all
+#orden de compilacion
 
 javac ca1DSim.java
 javac PanelGrafico.java
