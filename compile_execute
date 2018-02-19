@@ -1,0 +1,24 @@
+#script for compile all
+
+javac ca1DSim.java
+javac PanelGrafico.java
+javac randomGenerator.java
+javac ca1DSimulator.java
+javac ca1DSimulatorCifrado.java
+javac ca2DSimulatorConway.java
+javac ca2DSimulatorBelzab.java
+javac ca2DSimulatorTumor.java
+javac ca2DSimulatorMandel.java
+javac interpreteUrm.java
+javac DibujoAleatorios.java
+javac Automata.java
+javac AutomataCifrado.java
+javac Conway.java
+javac Belzab.java
+javac Tumor.java
+javac Mandel.java
+javac Urm.java
+javac Aleatorios.java
+javac Esqueleto.java
+
+java Esqueleto
