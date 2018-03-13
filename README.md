@@ -31,7 +31,7 @@ El software se compone de:
 
 -Simulador de reacción química de Belousov-Zhabotinsky.
 
--Simulador de tumor cerebral.
+-Simulador de tumor cancerígeno.
 
 -Simulación de Mandelbrot.
 
@@ -56,7 +56,7 @@ Belousov-Zhabotinsky.
 	<img width="720" height="480" src="/images/belzab.png"
 </p>
 
-Tumor cerebral.
+Tumor cancerígeno.
 <p align="center">
 	<img width="720" height="480" src="/images/tumor.png"
 </p>
